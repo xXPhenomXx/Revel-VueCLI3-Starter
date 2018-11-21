@@ -36,7 +36,7 @@ This kit is complete with Vue CLI3 which gives you a powerful command line tool 
 
 ### Go to http://localhost:8080 and you'll see:
        
-       "Welcome to your Vue.JS + Typescript App"
+![alt text](https://i.stack.imgur.com/e1SvV.png)
 
 Building your application frontend leveraging NPM/Webpack/Vue CLI you get complete hot-reloading and instant checking of your code.
 
@@ -53,7 +53,7 @@ The npm build process will handle all of the testing, transpiling, and bundling 
 
 ### Go to http://localhost:9000/ and you'll see:
 
-![alt text](https://goo.gl/images/Y7FCB8)
+![alt text](https://i.stack.imgur.com/e1SvV.png)
 
 ## Code Layout
 
