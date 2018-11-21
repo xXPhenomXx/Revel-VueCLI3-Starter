@@ -29,7 +29,8 @@ This kit is complete with Vue CLI3 which gives you a powerful command line tool 
 
     cd public/vue-frontend
 
-    npm run server
+    npm install        # loads all the dependencies
+    npm run server     # starts the dev server for the frontend
 
 ### Go to http://localhost:8080 and you'll see:
        
