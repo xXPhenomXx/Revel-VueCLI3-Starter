@@ -41,7 +41,7 @@ The npm build process will handle all of the testing, transpiling, and bundling 
 
 ### Start the backend Revel server:
 
-   revel run revel-app
+    revel run revel-app
 
 ### Go to http://localhost:9000/ and you'll see:
 
