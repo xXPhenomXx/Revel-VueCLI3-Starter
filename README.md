@@ -22,12 +22,12 @@ This kit is complete with Vue CLI3 which gives you a powerful command line tool 
 
 ### Required:
 
-* [Setup Node/NPM](https://www.npmjs.com/get-npm)
+* [Setup NodeJS/NPM](https://www.npmjs.com/get-npm)
 * [Setup Golang](https://golang.org/doc/install)
-* [Setup Revel](https://revel.github.io/tutorial/gettingstarted.html)
+* [Setup Revel Framework](https://revel.github.io/tutorial/gettingstarted.html)
 
 ### Setup Instructions
-1. Install Node - Confirm 'npm' command works from command line
+1. Install NodeJS - Confirm 'npm' command works from command line
 2. Install Golang and setup GOPATH/GOROOT per your environment
 3. Install Revel framework and Revel command line tool
 4. Clone Revel-VueCLI3-Starter to your GOPATH/src directory
