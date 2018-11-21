@@ -30,8 +30,11 @@ This kit is complete with Vue CLI3 which gives you a powerful command line tool 
 2. Install Golang and setup GOPATH/GOROOT per your environment
 3. Install Revel framework and Revel command line tool
 4. Clone Revel-VueCLI3-Starter to your GOPATH/src directory
-5. To run Vue frontend development server - 'cd public/vue-frontend'
-5a. 'npm install'
+5. To run Vue frontend development server
+
+     cd public/vue-frontend
+     npm install
+     
 5b. 'npm run serve'
 6. To deploy Vue app to Revel
 6a. 'npm run build'
