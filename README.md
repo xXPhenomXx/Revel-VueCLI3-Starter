@@ -44,12 +44,13 @@ Go to http://localhost:8080 and you'll see:
 
 ### To deploy Vue app to Revel
 
+    cd public/vue-frontend
     npm run build
 
 The npm build process will handle all of the testing, transpiling, and bundling of your frontend assets. Once complete Webpack will move all of your assets into Revels /public/ folder along with moving your entry point index.html into Revel's View folder.
 
 
-### To run Revel server w/Vue app
+### To run Revel server w/Vue app (from project root)
  
     revel run -a revel-app
 
