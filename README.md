@@ -32,7 +32,7 @@ This kit is complete with Vue CLI3 which gives you a powerful command line tool 
 
 Building your application frontend leveraging NPM/Webpack/Vue CLI you get complete hot-reloading and instant checking of your code.
 
-### To build for Production/Deployment
+### To deploy the application to Revel for Rendering
 
     npm run build
 
