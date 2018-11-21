@@ -56,7 +56,8 @@ The directory structure of a generated Revel application:
     app/              App sources
         init.go       Interceptor registration
         controllers/  App controllers go here
-        views/        Templates directory
+        models/       Model / database schema definitions go here  
+        views/Vue     Main template and entry point, generated when a 'npm run build' is run from the Vue app
 
     messages/         Message files
 
