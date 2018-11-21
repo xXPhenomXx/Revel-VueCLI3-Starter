@@ -3,6 +3,7 @@
 Revel is a high-productivity web framework for the [Go language](http://www.golang.org/).
 
 Vue CLI is a full system for rapid Vue.js development [VueCLI ](https://cli.vuejs.org/).
+
 VueJS The Progressive JavaScript Framework [VueJS ](https://vuejs.org/).
 
 This starter kit combines the backend power of the Revel framework and the Golang language with the dynamic Vue.JS frontend language. This best of both worlds allows you to build reactive single page applications using Revel/Golang as your backend.
@@ -28,13 +29,13 @@ This kit is complete with Vue CLI3 which gives you a powerful command line tool 
        
        "Welcome to your Vue.JS + Typescript App"
 
-    Building your application frontend leveraging NPM/Webpack/Vue CLI you get complete hot-reloading and instant checking of your code.
+Building your application frontend leveraging NPM/Webpack/Vue CLI you get complete hot-reloading and instant checking of your code.
 
 ### To build for Production/Deployment type
 
     npm run build
 
-    # The npm build process will handle all of the testing, transpiling, and bundling of your frontend assets. Once complete Webpack will move all of your assets into Revels /public/ folder along with moving your entry point index.html into Revel's View folder.
+The npm build process will handle all of the testing, transpiling, and bundling of your frontend assets. Once complete Webpack will move all of your assets into Revels /public/ folder along with moving your entry point index.html into Revel's View folder.
 
 
 ### Start the backend Revel server:
