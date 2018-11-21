@@ -23,6 +23,7 @@ This kit is complete with Vue CLI3 which gives you a powerful command line tool 
 ### Required:
 
 * [Setup Node/NPM](https://www.npmjs.com/get-npm)
+* [Setup Golang](https://golang.org/doc/install)
 * [Setup Revel](https://revel.github.io/tutorial/gettingstarted.html)
 
 ### Setup Instructions
