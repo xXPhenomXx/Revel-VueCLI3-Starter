@@ -25,7 +25,7 @@ This kit is complete with Vue CLI3 which gives you a powerful command line tool 
 * [Setup Node/NPM](https://www.npmjs.com/get-npm)
 * [Setup Revel](https://revel.github.io/tutorial/gettingstarted.html)
 
-### Clone this project to your GOPATH
+### First clone this project into your GOPATH
 
 ### Start the Development server for the frontend Vue application
 
