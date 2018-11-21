@@ -53,7 +53,7 @@ The npm build process will handle all of the testing, transpiling, and bundling 
 
 ### Go to http://localhost:9000/ and you'll see:
 
-    ![alt text](https://goo.gl/images/Y7FCB8)
+![alt text](https://goo.gl/images/Y7FCB8)
 
 ## Code Layout
 
