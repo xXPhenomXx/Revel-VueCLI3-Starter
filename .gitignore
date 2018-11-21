@@ -1,3 +1,9 @@
 test-results/
 tmp/
 routes/
+
+
+.vscode
+.xml
+
+public/vue-frontend/node_modules
