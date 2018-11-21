@@ -18,7 +18,12 @@ This kit is complete with Vue CLI3 which gives you a powerful command line tool 
 * Babel (3.1.1)
 * Typescript (3.1.1)
 * SASS processing
-* Chai (4.1.0) / Mocha (5.2.4) Testing 
+* Chai (4.1.0) / Mocha (5.2.4) Testing
+
+Required:
+
+* [Setup Node/NPM](https://www.npmjs.com/get-npm)
+* [Setup Revel] (https://revel.github.io/tutorial/gettingstarted.html)
 
 ### Start the Development server for the frontend Vue application
 
